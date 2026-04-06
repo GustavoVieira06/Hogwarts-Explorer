@@ -7,5 +7,6 @@ Card detalhado com informações sobre o personagem
 <img width="1125" height="893" alt="Spells" src="https://github.com/user-attachments/assets/7112dc9e-ff85-4e34-baea-81a5cd052e05" />
 Lista de feitiços
 
+
 <img width="546" height="908" alt="Location" src="https://github.com/user-attachments/assets/b5b2b520-b603-48b4-9ab9-72aa005bfaeb" />
 Lugares de Hogwarts 
